@@ -1,6 +1,6 @@
 ## This branch implements Rein
 
-**Rein is parameter-efficient fine-tuning approach of vision foundation models for superior domain generalization**
+**Rein a is parameter-efficient fine-tuning approach of vision foundation models for superior domain generalization**
 
 ## Codebase
 
